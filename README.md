@@ -31,25 +31,32 @@ Descrição do **projeto**. Geralmente respondendo as perguntas:
 
 <!-- Para deixar as imagens lado a lado, devesse colocar os links um ao lado do outro sem quebra de linha-->
 
-![Mobile 1](https://github.com/seu_user/pasta/mobile1.png) ![Mobile 2](https://github.com/seu_user/pasta/mobile2.png)
+<!-- ![Mobile 1](https://github.com/seu_user/pasta/mobile1.png) ![Mobile 2](https://github.com/seu_user/pasta/mobile2.png) -->
+![Mobile 1](https://github.com/EvelynGitHub/assets-readme/blob/main/img/home-mobile.png) ![Mobile 2](https://github.com/seu_user/pasta/home-mobile.png)
 
 ## Layout Web
 
 <!-- Para deixar as imagens uma embaixo da outra, devesse colocar os links um embaixo outro com  duas quebras de linha -->
 
-![Web 1](https://github.com/seu_user/pasta/mobile1.png)
+<!-- ![Web 1](https://github.com/seu_user/pasta/mobile1.png)
 
-![Web 2](https://github.com/seu_user/pasta/mobile2.png)
+![Web 2](https://github.com/seu_user/pasta/mobile2.png) -->
+
+![Web 1](https://github.com/EvelynGitHub/assets-readme/blob/main/img/home.png)
+
+![Web 2](https://github.com/EvelynGitHub/assets-readme/blob/main/img/novo-post.png)
 
 ## Modelo conceitual
 
 ### Diagrama de Classes
 
-![Diagrama de Classes](https://github.com/github.com/seu_user/pasta/diagrama_classe.png)
+<!-- ![Diagrama de Classes](https://github.com/github.com/seu_user/pasta/diagrama_classe.png) -->
+![Diagrama de Classes](https://github.com/EvelynGitHub/assets-readme/blob/main/img/classes.png)
 
 ### MER
 
-![Modelo de Entidade e Relacionamento](https://github.com/github.com/seu_user/pasta/diagrama_classe.png)
+<!-- ![Modelo de Entidade e Relacionamento](https://github.com/github.com/seu_user/pasta/diagrama_classe.png) -->
+![Modelo de Entidade e Relacionamento](https://github.com/EvelynGitHub/assets-readme/blob/main/img/mer.png)
 
 # Tecnologias utilizadas:
 
