@@ -2,7 +2,8 @@
 
 <center>
 
-![Imagem de capa](https://github.com/seu_user/pasta/imagem.pgn)
+<!-- ![Imagem de capa](https://github.com/seu_user/pasta/imagem.pgn) -->
+![Imagem de capa](https://github.com/EvelynGitHub/assets-readme/tree/main/img/capa.png)
 
 </center>
 <center>
