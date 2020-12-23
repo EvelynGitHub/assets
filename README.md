@@ -32,7 +32,7 @@ Descrição do **projeto**. Geralmente respondendo as perguntas:
 <!-- Para deixar as imagens lado a lado, devesse colocar os links um ao lado do outro sem quebra de linha-->
 
 <!-- ![Mobile 1](https://github.com/seu_user/pasta/mobile1.png) ![Mobile 2](https://github.com/seu_user/pasta/mobile2.png) -->
-![Mobile 1](https://github.com/EvelynGitHub/assets-readme/blob/main/img/home-mobile.png) ![Mobile 2](https://github.com/seu_user/pasta/home-mobile.png)
+![Mobile 1](https://github.com/EvelynGitHub/assets-readme/blob/main/img/home-mobile.png) ![Mobile 2](https://github.com/EvelynGitHub/assets-readme/blob/main/img/home-mobile.png)
 
 ## Layout Web
 
