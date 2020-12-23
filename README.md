@@ -8,8 +8,11 @@
 <center>
 <!--Site útil para pegar as imagens que aparecem https://shields.io -->
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/seu_user/pasta/LICENSE)
-![GitHub](https://img.shields.io/github/license/seu_user_name/seu_repositorio)
+<!-- [![NPM](https://img.shields.io/npm/l/react)](https://github.com/seu_user/pasta/LICENSE) -->
+<!-- ![GitHub](https://img.shields.io/github/license/seu_user_name/seu_repositorio) -->
+
+![GitHub](https://img.shields.io/github/license/EvelynGitHub/assets-readme)
+
 
 </center>
 
