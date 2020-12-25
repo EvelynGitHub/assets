@@ -136,6 +136,12 @@ class Example extends Crud
 }
 ```
 
+
+<details>
+  <summary><b>Tópico em questão</b></summary>
+  Descrição do tópico que vai ficar minimizada
+</details>
+
 # Autor(es)
 
 **Nome do Autor**
